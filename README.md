@@ -1,1 +1,1 @@
-# Data-Curation-and-Analysis-of-the-S-P-500
+# Data Curation and Analysis of the S&P 500
