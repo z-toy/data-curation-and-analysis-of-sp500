@@ -12,7 +12,7 @@ Additionally, some of the data points contained two dates for the year added to 
 There are no potential biases I am aware of. 
 
 ## Analysis
-I created a histogram, boxplot, regression plot, and scatterplot using Seaborn to visualize and analyze the data. From these data visualizations, came to the following conclusions:
+From the data, I wanted to see if there were any trends in the types of companies in the S&P 500 and when they were added to the list. I created a histogram, boxplot, regression plot, and scatterplot using Seaborn to visualize and analyze the data. From these data visualizations, came to the following conclusions:
 
 * Out of the companies in the S&P 500, majority fall into Global Industry Classification Standard (GICS) category of Industrials, Health Care, Information Technology, and Financials.
 * On average, the S&P 500 companies that fall under the Communication Services category were most recently added to the list (mid 2010s), with Information Technology falling closely behind. In contrast, the companies that fall under the Consumer Staples category were added earliest (mid 1980s).
