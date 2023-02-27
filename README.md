@@ -1,4 +1,6 @@
 # Data Curation and Analysis of the S&P 500
+## Project Introduction
+The goal of this project was to demonstrate my ability to perform ETL and carry out data visualizations to draw conclusions from data found online. 
 
 ## Data
 The data is taken from the following reference: Wikipedia contributors. (2023, February 23). List of S&P 500 companies. Wikipedia. https://en.wikipedia.org/wiki/List_of_S%26P_500_companies.
